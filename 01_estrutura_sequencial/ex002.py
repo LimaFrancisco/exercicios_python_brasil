@@ -1,0 +1,4 @@
+# Faça um programa que peça um número e então mostre a mensagem "O número informado foi [número]"
+
+numero = input("Insira um numero: ")
+print(f"O número informado foi {numero}")
